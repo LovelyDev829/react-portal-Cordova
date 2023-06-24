@@ -143,7 +143,7 @@ const RegisterForm = ({ user }) => {
                             <div className="col-lg-12 col-md-12">
                                 <div className="form-group">
                                     <textarea 
-                                        name="text" 
+                                        type="text" 
                                         cols="30" 
                                         rows="5" 
                                         placeholder="Please tell us about your teaching profession" 
