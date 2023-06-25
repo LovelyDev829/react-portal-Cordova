@@ -9,7 +9,7 @@
 		"build": "next build",
 		"export": "next build && next export",
 		"lint": "next lint",
-		"start": "next start"
+		"start": "sequelize db:migrate && sequelize db:seed && next start"
 	},
 	"author": "EnvyTheme.com",
 	"license": "ISC",
