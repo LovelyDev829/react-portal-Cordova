@@ -14,10 +14,10 @@
 		"dialect": "postgres"
 	},
 	"production": {
-		"username": "Update here username",
-		"password": "Update here password",
-		"database": "Update here database",
-		"host": "127.0.0.1",
+		"username": "akm",
+		"password": "9uW5gNfJrvw8GLzcjrZePSZv03l18Ujn",
+		"database": "cordovalearning",
+		"host": "postgres://akm:9uW5gNfJrvw8GLzcjrZePSZv03l18Ujn@dpg-cibqfop5rnuk9qa5f2g0-a/cordovalearning",
 		"dialect": "postgres"
 	}
 }
