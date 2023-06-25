@@ -3,6 +3,7 @@
 	"version": "1.8.0",
 	"description": "eDemy -  React Next.js LMS Education & Online Courses Theme",
 	"main": "index.js",
+	"homepage": "https://cordovalearning.onrender.com",
 	"scripts": {
 		"dev": "node server.js",
 		"build": "next build",
