@@ -17,7 +17,7 @@
 		"username": "akm",
 		"password": "9uW5gNfJrvw8GLzcjrZePSZv03l18Ujn",
 		"database": "cordovalearning",
-		"host": "postgres://akm:9uW5gNfJrvw8GLzcjrZePSZv03l18Ujn@dpg-cibqfop5rnuk9qa5f2g0-a/cordovalearning",
+		"host": "dpg-cibqfop5rnuk9qa5f2g0-a",
 		"dialect": "postgres"
 	}
 }
