@@ -48,6 +48,7 @@
 		"redux-thunk": "^2.4.1",
 		"sass": "^1.41.1",
 		"sequelize": "^6.32.1",
+		"sequelize-cli": "^6.6.1",
 		"stripe": "^8.176.0",
 		"swiper": "^9.1.0",
 		"uuid": "^8.3.1",
