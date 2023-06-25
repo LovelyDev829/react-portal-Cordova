@@ -4,11 +4,11 @@
 	"description": "eDemy -  React Next.js LMS Education & Online Courses Theme",
 	"main": "index.js",
 	"scripts": {
-		"dev": "node server.js",
+		"dev": "next dev",
 		"build": "next build",
 		"export": "next build && next export",
 		"lint": "next lint",
-		"start": "NODE_ENV=production next start -H \"cordovalearning.onrender.com\" -p 3000"
+		"start": "NODE_ENV=production next start -H \"216.24.57.253\" -p 3000"
 	},
 	"author": "EnvyTheme.com",
 	"license": "ISC",
