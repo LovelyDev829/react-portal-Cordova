@@ -1,7 +1,7 @@
 {
 	"name": "edemy",
 	"version": "1.8.0",
-	"description": "eDemy -  React Next.js LMS Education & Online Courses Theme",
+	"description": "Cordova -  React Next.js LMS Education & Online Courses Theme",
 	"main": "index.js",
 	"scripts": {
 		"dev": "next dev",

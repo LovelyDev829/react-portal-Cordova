@@ -32,7 +32,7 @@ const CheckoutBtn = ({ user, price, cartItems, onClearCart }) => {
 	return (
 		<div>
 			<StripeCheckout
-				name="eDemy Online Course"
+				name="Cordova Online Course"
 				amount={stripeTotal}
 				currency="USD"
 				stripeKey={process.env.STRIPE_PUBLISHABLE_KEY}

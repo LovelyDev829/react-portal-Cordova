@@ -13,8 +13,8 @@ const SEO = ({ title, description, image }) => {
 };
 
 SEO.defaultProps = {
-	title: "eDemy - React Next.js Education LMS Template",
-	description: "eDemy - React Next.js Education LMS Template",
+	title: "Cordova - React Next.js Education LMS Template",
+	description: "Cordova - React Next.js Education LMS Template",
 	image: "https://res.cloudinary.com/dev-empty/image/upload/v1595838139/vivi/about-img-two.jpg",
 };
 
