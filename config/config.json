@@ -14,10 +14,10 @@
 		"dialect": "postgres"
 	},
 	"production": {
-		"username": "akm",
-		"password": "9uW5gNfJrvw8GLzcjrZePSZv03l18Ujn",
-		"database": "cordovalearning",
-		"host": "dpg-cibqfop5rnuk9qa5f2g0-a",
+		"username": "default",
+		"password": "B9dbF3KSuzyN",
+		"database": "verceldb",
+		"host": "ep-empty-leaf-356379-pooler.us-east-1.postgres.vercel-storage.com",
 		"dialect": "postgres"
 	}
 }
